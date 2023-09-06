@@ -1,1 +1,2 @@
-Line1 conflict
+File4 line1 conflict resolved
+
